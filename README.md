@@ -1,1 +1,3 @@
-# CUDA-image-modifications
+# CUDA Image Modifications
+
+***note:*** **test to make sure it fully works**
